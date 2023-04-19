@@ -1,0 +1,16 @@
+Git(Hub): (Founded by Linus Torvalds)
+=========
+What is GIT?
+-------------
+	- GIT is version control software or version control system
+
+What is Version Control System/Software?
+-----------------------------------------
+	- Version control systems are a category of software tools that helps 
+	in recording changes made to files by keeping a track of modifications done in the code. 
+	
+GIT vs GITHUB:
+---------------
+	- GIT is underline technolgy
+	- GitHub is a Provider(Web application)
+
