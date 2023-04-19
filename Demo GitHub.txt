@@ -14,3 +14,8 @@ GIT vs GITHUB:
 	- GIT is underline technolgy
 	- GitHub is a Provider(Web application)
 
+Basic GitHub Terminologies:
+----------------------------
+1. Repositories --> Like a folder contains all the files related to a project.
+2. Readme File --> Basic instruction about the  project.
+3. Commit --> saving the state
